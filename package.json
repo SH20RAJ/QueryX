@@ -1,0 +1,28 @@
+{
+  "name": "queryx",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript library for DOM manipulation and traversal.",
+  "main": "QueryX.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SH20RAJ/QueryX.git"
+  },
+  "keywords": [
+    "dom",
+    "manipulation",
+    "traversal",
+    "javascript",
+    "library"
+  ],
+  "author": "sh20raj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SH20RAJ/QueryX/issues"
+  },
+  "homepage": "https://github.com/SH20RAJ/QueryX",
+  "dependencies": {},
+  "devDependencies": {}
+}
