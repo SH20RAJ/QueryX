@@ -26,7 +26,11 @@ To get started with QueryX, include the `queryX.js` file in your project:
 Alternatively, you can use a CDN link:
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/queryx"></script>
+<script src="https://cdn.jsdelivr.net/gh/SH20RAJ/QueryX@main/QueryX.js"></script>
+```
+or
+```html
+<script src="https://cdn.jsdelivr.net/npm/queryxjs"></script>
 ```
 
 ## Usage
