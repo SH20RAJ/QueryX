@@ -53,7 +53,7 @@ queryX('.element').closest('.container').css('background-color', 'red');
 
 ## Documentation
 
-For detailed documentation and examples, please refer to the [Documentation](#) section (link to your documentation).
+For detailed documentation and examples, please refer to the [Documentation](./docs/) section (link to your documentation).
 
 ## Contributing
 
