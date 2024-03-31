@@ -1,6 +1,6 @@
 # QueryX
 
-[![GitHub license](https://img.shields.io/github/license/SH20RAJ/QueryX.svg)](https://github.com/SH20RAJ/QueryX/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/SH20RAJ/QueryX.svg?)](https://github.com/SH20RAJ/QueryX/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/SH20RAJ/QueryX.svg)](https://github.com/SH20RAJ/QueryX/issues)
 [![GitHub stars](https://img.shields.io/github/stars/SH20RAJ/QueryX.svg)](https://github.com/SH20RAJ/QueryX/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/SH20RAJ/QueryX.svg)](https://github.com/SH20RAJ/QueryX/network)
