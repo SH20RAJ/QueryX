@@ -7,6 +7,8 @@
 
 QueryX is a lightweight JavaScript library that provides a jQuery-like interface for DOM manipulation and traversal. It allows you to select elements, add/remove classes, manipulate attributes, traverse the DOM, and more, similar to jQuery but in a simpler and more lightweight manner.
 
+[Dev.to
+](https://dev.to/sh20raj/queryx-a-lightweight-javascript-library-for-dom-manipulation-3hic)
 ## Features
 
 - **DOM Selection:** Select elements from the DOM using CSS selectors.
